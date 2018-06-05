@@ -2,32 +2,32 @@
 
 BTTH LINUX
 
-#Thông tin sinh vien
+# Thông tin sinh vien
 
-*Ho Ten : Dinh Nguyen Quoc Bao
+* Ho Ten : Dinh Nguyen Quoc Bao
 
-*MSSV : 1752007
+* MSSV : 1752007
 
-*Lop : K17 VIET PHAP
+* Lop : K17 VIET PHAP
 
-*Mon hoc : Thuc hanh Linux
+* Mon hoc : Thuc hanh Linux
 
-#Tuan 01
+# Tuan 01
 
-#Tuan 02
+# Tuan 02
 
-#Tuan 03
+# Tuan 03
 
-#Tuan 04
+# Tuan 04
 
-#Tuan 05
+# Tuan 05
 
-#Tuan 06
+# Tuan 06
 
-#Tuan 07
+# Tuan 07
 
-#Tuan 08
+# Tuan 08
 
-#Tuan 09
+# Tuan 09
 
-#Tuan 10
+# Tuan 10
