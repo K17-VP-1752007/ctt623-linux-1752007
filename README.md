@@ -17,9 +17,10 @@ BTTH LINUX
 # Tuan 02
 
 # Tuan 03
-BTTH03 da hoan thanh
+BTTH03 da nop
 
 # Tuan 04
+BTTH04 da nop
 
 # Tuan 05
 
