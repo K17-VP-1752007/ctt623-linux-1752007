@@ -32,6 +32,7 @@ BTTH06 da nop
 BTTH07 da nop
 
 # Tuan 08
+BTTH08 da nop
 
 # Tuan 09
 
